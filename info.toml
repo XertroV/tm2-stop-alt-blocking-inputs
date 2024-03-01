@@ -1,0 +1,7 @@
+[meta]
+name     = "Patch: Stop ALT blocking inputs"
+author   = "XertroV"
+category = "Inputs"
+version  = "0.1.0"
+
+[script]
